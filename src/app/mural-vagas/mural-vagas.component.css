@@ -1,0 +1,9 @@
+.lista-Vagas{
+    display: flex;
+    flex-direction: row;
+}
+
+.listar-Vagas .card {
+    margin: 5px 10px;
+    min-height: 500px;
+}
